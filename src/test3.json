@@ -1,0 +1,20 @@
+{
+  "cluster": [
+    {
+      "label": "cluster1",
+      "terms": [
+        {
+          "word": "term1",
+          "weight": "0.5"
+        },
+        {
+          "word": "term2",
+          "weight": "0.3"
+        },        {
+          "word": "term3",
+          "weight": "0.2"
+        }
+      ]
+    }
+  ]
+}
